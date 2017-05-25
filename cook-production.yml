@@ -1,4 +1,8 @@
 cook:
   special: Mymenu
 secretMenu: testvalueLocal
+<<<<<<< HEAD
 secretMenu: testvalueLocal2
+=======
+secretMenu: testvalueLocal3
+>>>>>>> aadc05107967323cf32835f7c930f4a3e96b73a7
